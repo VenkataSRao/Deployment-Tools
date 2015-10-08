@@ -1,1 +1,17 @@
 
+Cloudbreak is a tool for provisioning and managing Apache Hadoop clusters in the cloud
+
+Cloudbreak automates the launching of elastic Hadoop clusters with policy-based autoscaling on the major cloud infrastructure 
+platforms including Microsoft Azure, Amazon Web Services, Google Cloud Platform, OpenStack, as well as platforms that support 
+Docker containers for greater application mobility.
+
+Cloudbreak is a cloud agnostic tool for provisioning, managing and monitoring of on-demand clusters. You can use its scripting 
+functionality to automate tasks and its easy UI to manage services for any configuration
+
+Cloudbreak can be used to provision Hadoop across the following major cloud providers: Microsoft Azure, Amazon Web Service, 
+Google Cloud Platform and OpenStack. It enables more efficient usage of cloud platforms via policy-based autoscaling that can 
+expand and contract the cluster based on Hadoop usage metrics and defined policies..
+
+It provides centralized and secure user experience to Hadoop cluster through rich web interface as well as REST API and CLI shell 
+across all cloud providers.
+
